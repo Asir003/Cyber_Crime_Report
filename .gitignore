@@ -1,0 +1,12 @@
+# Ignore node modules and cache folders
+node_modules/
+frontend/node_modules/
+frontend/.cache/
+backend/__pycache__/
+*.pyc
+
+# Optional: Ignore logs, env files, build folders
+*.log
+.env
+build/
+dist/
